@@ -1,0 +1,7 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!104 &1
+RenderSettings:
+  m_Fog: 1
+  m_FogColor: {r: 0.08, g: 0.06, b: 0.04, a: 1}
+  m_AmbientIntensity: 0.5
